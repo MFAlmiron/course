@@ -1,2 +1,1 @@
-# course
-Este es en repositorio del modulo2 del prepcourse henry
+/Esta es una prueba de como crear un repositorio y clonarlo desde github a la computadora/ 
